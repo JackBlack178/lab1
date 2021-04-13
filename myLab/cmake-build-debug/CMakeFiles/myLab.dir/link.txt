@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/myLab.dir/main.c.o CMakeFiles/myLab.dir/person.c.o CMakeFiles/myLab.dir/function.c.o CMakeFiles/myLab.dir/menu.c.o CMakeFiles/myLab.dir/processValues.c.o CMakeFiles/myLab.dir/test.c.o CMakeFiles/myLab.dir/dynamicArray.c.o  -o myLab.exe -Wl,--out-implib,libmyLab.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

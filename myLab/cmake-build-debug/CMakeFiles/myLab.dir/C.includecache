@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/dynamicArray.c
+dynamicArray.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/dynamicArray.h
+stdlib.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/stdlib.h
+string.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/string.h
+person.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/person.h
+processValues.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/processValues.h
+menu.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/menu.h
+
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/dynamicArray.h
+
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/function.h
+stdio.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/stdio.h
+dynamicArray.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/dynamicArray.h
+person.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/person.h
+
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/menu.h
+
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/person.h
+function.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/function.h
+stdlib.h
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/stdlib.h
+
+/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/processValues.h
+

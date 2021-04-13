@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="myLab"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myLab">
+				<Option output="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/myLab.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 myLab"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myLab/fast">
+				<Option output="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/myLab.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 myLab/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/dynamicArray.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/dynamicArray.h">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/function.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/function.h">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/main.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/menu.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/menu.h">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/person.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/person.h">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/processValues.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/processValues.h">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/test.c">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/test.h">
+			<Option target="myLab"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Pascal/Documents/DEVELOPMENT/C/myLab/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
